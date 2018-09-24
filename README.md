@@ -1,2 +1,3 @@
 # AttnMeSH
-Codes for AttentionMeSH
+Public codes for [AttentionMeSH](https://andy-jqa.github.io/#EMNLP2018)
+
