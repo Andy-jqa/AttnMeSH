@@ -6,7 +6,7 @@ This is the code for [AttentionMeSH: Simple, Effective and Interpretable Automat
 
 ## Prerequisites
 
-- Python 3.5
+- Python 3.6
 - torch==0.4.0
 - numpy==1.13.3
 - Maybe more, just use `pip install` if you run into problems.
